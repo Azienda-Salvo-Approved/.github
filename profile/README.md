@@ -83,8 +83,8 @@ insegnato una cosa sola: fare le cose per bene — o farle fare bene a una rete 
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AziendaSalvoApproved&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AziendaSalvoApproved&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Azienda-Salvo-Approved&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azienda-Salvo-Approved&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
@@ -92,7 +92,7 @@ insegnato una cosa sola: fare le cose per bene — o farle fare bene a una rete 
 ## 🐍 Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AziendaSalvoApproved/.github/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Azienda-Salvo-Approved/.github/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
